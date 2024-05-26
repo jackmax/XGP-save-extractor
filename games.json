@@ -67,6 +67,11 @@
         // 1 container, n files
         // One container contains all save files.
         {
+            "name": "Cassette Beasts",
+            "package": "RawFury.CassetteBeasts_9s0pnehqffj7t",
+            "handler": "1cnf"
+        },
+        {
             "name": "Chained Echoes",
             "package": "DECK13.ChainedEchoesRelease_rn1dn9jh54zft",
             "handler": "1cnf"
@@ -119,6 +124,11 @@
             "handler_args": {
                 "suffix": ".sos"
             }
+        },
+        {
+            "name": "Spirit of the North: Enhanced Edition",
+            "package": "MergeGamesLimited.5565213454126_j1rzjmssdh5zy",
+            "handler": "1cnf"
         },
         {
             "name": "Totally Accurate Battle Simulator",
