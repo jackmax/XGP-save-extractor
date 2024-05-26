@@ -113,6 +113,14 @@
             }
         },
         {
+            "name": "Sea of Stars",
+            "package": "SabotageStudio.SeaofStars_p3aneehax6csy",
+            "handler": "1cnf",
+            "handler_args": {
+                "suffix": ".sos"
+            }
+        },
+        {
             "name": "Totally Accurate Battle Simulator",
             "package": "LandfallGames.TotallyAccurateBattleSimulator_r2vq7k2y0v9ct",
             "handler": "1cnf"
